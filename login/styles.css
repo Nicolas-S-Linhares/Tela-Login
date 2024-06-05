@@ -17,21 +17,21 @@ body {
 }
 
 .logo-container {
-    margin-bottom: 20px; /* Espaço entre a logo e o formulário */
+    margin-bottom: 20px;
 }
 
 .logo {
-    max-width: 1500px; /* Ajuste o tamanho conforme necessário */
+    max-width: 1500px;
     height: auto;
 }
 
 .login-container {
-    background: rgba(17, 24, 39, 0.8); /* Fundo escuro com opacidade */
+    background: rgba(17, 24, 39, 0.8);
     border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-    width: 350px; /* Largura ajustada */
+    width: 350px;
     display: flex;
     flex-direction: column;
     align-items: center;
